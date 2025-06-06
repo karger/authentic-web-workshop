@@ -12,7 +12,7 @@ and then tells them which websites and articles their network thinks are credibl
 
 We are in US East, Central, and West time zones.
 
-Emails: karger@mit.edu, jyasskin@google.com
+Emails: karger@mit.edu, jyasskin@google.com, farnaz@umich.edu
 
 ### Please link to Github repos, proposals, explainers, or drafts that you’ve written.
 
@@ -112,7 +112,7 @@ Not yet.
 The extension binds assessments of content to URLs and uses URLs to find assessments for content.
 Because any piece of content appearing in a social feed but coming from a different facilitator typically
 has a URL of its own (e.g., tweets, Youtube videos, comments), this approach enables separate
-assessment of each post in a feed.
+assessment of each content item in a feed.
 
 When a user is on a web page, the extension checks the URL (and its variations) to see whether its
 associated content has been assessed by facilitators the user trusts or follows (other individuals or
